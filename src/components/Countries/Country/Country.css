@@ -1,0 +1,23 @@
+
+.single {
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    padding: 25px 10px;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+}
+
+h1 {
+    color: dimgray;
+
+}
+
+
+.image {
+    width: 160px;
+    background-color: white;
+    padding: 2px;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+}
